@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://samesense.github.io/samesense/index.xml</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Oct 2016 10:39:03 -0400</lastBuildDate>
+    <atom:link href="https://samesense.github.io/samesense/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>intro</title>
+      <link>https://samesense.github.io/samesense/post/intro/</link>
+      <pubDate>Sun, 16 Oct 2016 10:39:03 -0400</pubDate>
+      
+      <guid>https://samesense.github.io/samesense/post/intro/</guid>
+      <description>&lt;p&gt;Start &lt;strong&gt;&lt;em&gt;lambda hugo&lt;/em&gt;&lt;/strong&gt; site.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
